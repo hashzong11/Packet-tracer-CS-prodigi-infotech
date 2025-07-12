@@ -1,6 +1,8 @@
 # Packet-tracer-CS-prodigi-infotech
 📡 Cisco Packet Tracer Labs (CLI + GUI) This repository offers a collection of Cisco Packet Tracer lab files and configuration examples focusing on both CLI (Command-Line Interface) and GUI features. It’s designed for networking students, Cisco certification candidates (CCNA, CCNP), and IT professionals looking to sharpen their hands-on skills.  
+
 🔧 Features
+
 ✅ Ready-to-use .pkt lab files (Packet Tracer 8.x+ compatible)
 
 ✅ Step-by-step CLI configuration scripts (.txt)
@@ -12,6 +14,7 @@
 ✅ Topics covering switching, routing, VLANs, ACLs, DHCP, NAT, OSPF, EIGRP, and more
 
 📁 Folder Structure
+
 bash
 Copy
 Edit
@@ -40,7 +43,10 @@ Follow the instructions or configuration scripts
 
 Experiment, learn, and build your own labs
 
-🤝 Contributions Welcome
+🤝 Contributions
+
+Welcome
+
 You’re encouraged to contribute by adding labs, fixing configs, or improving documentation.
 
 Requirements:
